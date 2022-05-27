@@ -1,0 +1,4 @@
+9-35 fällt aus:
+
+alt: 10 hops
+neu: 8 hops

@@ -1,0 +1,2 @@
+rep,nrNodes,nrEdges,edgeProb,nrPaths,nrFails,failureModel,hopsRanked,hopsUnranked,spLength,stretch,nodeAdditions,hopsPath,hopsRankedOne,hopsUnrankedOne,overallNodeAdditionsOne
+1,100,557,0.119,11,10,random,2,2,2,0,0,2,2,2,0
