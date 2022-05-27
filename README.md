@@ -18,7 +18,7 @@ The src folder contains 3 Python files:
 
 This work builds upon the prior work of Paula-Elena Gheorghe, who laid the groundwork for the presented algorithms.
 
-For experiments and tests one can either generate random graphs (by using, for example, the corresponding methods provided by NetworkX) or use topologies from the topology zoo, which are included in src/graphml. In order to run the experiments/tests, one must execute the corresponding Python file (kResiliencePaths.py or kResilienceTrees.py) by calling the corresponding function in main and giving all the necessary arguments. 
+For experiments and tests one can either generate random graphs (by using, for example, the corresponding methods provided by NetworkX) or use topologies from the topology zoo, which can be found at http://www.topology-zoo.org/dataset.html. In order to run the experiments/tests, one must execute the corresponding Python file (kResiliencePaths.py or kResilienceTrees.py) by calling the corresponding function in main and giving all the necessary arguments. 
 
 Evaluation code and results can be found in the form of Jupyter Notebook files inside the evaluation folder. All CSVs, plots and evaluation code used in the published paper can be found inside this folder.
 
